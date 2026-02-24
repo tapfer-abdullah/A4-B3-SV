@@ -204,6 +204,9 @@ body {
   font-size: 1rem;
 }
 @media (max-width: 600px) {
+  .header h1 {
+    text-align: center;
+  }
   .container {
     padding: 8px;
   }
